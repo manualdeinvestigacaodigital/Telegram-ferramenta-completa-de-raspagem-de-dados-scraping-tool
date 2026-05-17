@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/manualdeinvestigacaodigital/telegram-app/main/Telegram_logo.svg.png" width="120">
 </p>
 
-<h1 align="center">Telegram Investigation Tool</h1>
+<h1 align="center">Telegram - ferramenta completa de raspagem de dados (scraping-tool)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-estável-success">
